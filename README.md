@@ -3,6 +3,6 @@ BrainVoxGen is a GAN-based architecture that synthesizes MRI volumes from ultras
 ![](Output/Output1.png)
 
 To run the model:
-> python -m pip install -r requirements.txt <br>
-> python -m jupyterlab <br>
-> Run VoxGen.ipynb <br>
+> ```python -m pip install -r requirements.txt``` <br>
+> ```python -m jupyterlab``` <br>
+> Run ```VoxGen.ipynb``` <br>
