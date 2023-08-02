@@ -5,7 +5,7 @@ BrainVoxGen is a GAN-based architecture that synthesizes MRI volumes from ultras
 ![](Output/Output1.png)
 
 ### Model architecture:
-![img|250x250, 50%](Architecture.png)
+![img|50x50, 50%](Architecture.png)
 
 ### To run the model:
 > ```python -m pip install -r requirements.txt``` <br>
